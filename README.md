@@ -1,1 +1,0 @@
-# tripurakant.github.io
