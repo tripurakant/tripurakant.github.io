@@ -40,19 +40,24 @@ header.startup h1 {
   text-transform: uppercase;
   border-radius: 300px;
   font-family: 'Montserrat', sans-serif;
+  text-allign: center;
+  right: 20px;
 }
 
 .btn-xl {
   padding: 1rem 2rem; 
+  right: 20px;
 }
 
 .btn-primary {
   background-color: #F05F44;
-  border-color: #F05F44; }
+  border-color: #F05F44; 
+right: 20px;}
 
 .btn-primary:hover {
   background-color: #ee4b08;
   border-color: #ee4b08;
+  right: 20px;
   border-width: 5px;
   cursor: pointer;
 }
